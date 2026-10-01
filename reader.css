@@ -27,12 +27,12 @@ body{
   font-size: large;
 }
 .all{
-  padding: 1vw;
+  padding: 2vw;
 }
 .choose{
   color: #A78A68;
   text-align: center;
-  padding: 5vw;
+  padding: 3vw;
 }
 .surahs{
   background: radial-gradient(#A78A68, #3C091A);
@@ -42,7 +42,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2vw;
+  margin: 3vw;
 }
 .souar{
   display: grid;
