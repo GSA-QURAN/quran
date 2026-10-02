@@ -52,5 +52,5 @@ body{
 .surah{
   color: #3C091A;
   text-decoration: none;
-  font-size: 20vw
+  font-size: clamp(1vw, 2.5vw, 1.5vw);
 }
