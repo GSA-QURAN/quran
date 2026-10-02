@@ -34,20 +34,20 @@ body{
   text-align: center;
   padding: 3vw;
 }
+.souar{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: auto;
+}
 .surahs{
   background: radial-gradient(#A78A68, #3C091A);
-  width: 30vw;
-  height: 30vw;
-  border-radius: 15vw;
+  width: 20vw;
+  height: 20vw;
+  border-radius: 10vw;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 3vw;
-}
-.souar{
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-template-rows: auto;
+  margin: 1vw;
 }
 .surah{
   color: #3C091A;
