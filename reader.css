@@ -54,3 +54,22 @@ body{
   text-decoration: none;
   font-size: 3.5vw;
 }
+.player-bar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+#player{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+}
+.now-playing{
+  color: #A78A68;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center;
+}
