@@ -86,7 +86,7 @@ body{
 .download-link[hidden]{
   display: none;
 }
-site-title{
+.site-title{
 font-size: small;
 color: #3C091A;
 }
